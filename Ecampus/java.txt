@@ -1,0 +1,13 @@
+//java code should goes inside a class <class_name> {}
+class Hello{
+      //class contains methods
+      //main method is a special method where every java program's execution starts
+      public static void main (String [] args) {
+
+            // can do basic programming here inside main method
+            int numberOne = 2056; //variable declaration & initialization
+            int numberTwo = 3021;
+            int total = numberOne+ numberTwo;
+            System.out.println(total);
+            }
+      }
